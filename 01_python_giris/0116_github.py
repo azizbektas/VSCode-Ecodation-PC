@@ -19,8 +19,8 @@ Remote Name: "remote ismi ekle" VSCode-Ecodation-PC
 Adım 5 → Authenticaion/Authorization işlemi için token oluştur.
 https://github.com/settings/tokens → Generate New Token
 
-Adım 6 → İlk gönderimde yada değişiklik anında her gönderim için Commit and Push
-Views and More Actions → Commit (Commit All)
-Views and More Actions → Push
+Adım 6 → İlk gönderimde yada değişiklik anında her gönderim için Commit and Push yapılmalı
+Views and More Actions → Commit | Yada | Source Control → Commit buton
+Views and More Actions → Push | Yada | Durum Çubuğundaki → Synchronize Changes buton
 """
 #endregion
