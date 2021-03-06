@@ -20,7 +20,7 @@ Adım 5 → Authenticaion/Authorization işlemi için token oluştur.
 https://github.com/settings/tokens → Generate New Token
 
 Adım 6 → İlk gönderimde yada değişiklik anında her gönderim için Commit and Push yapılmalı
-Views and More Actions → Commit | Yada | Source Control → Commit buton → Commit'e Bir İsim Ver
-Views and More Actions → Push | Yada | Durum Çubuğundaki → Synchronize Changes buton
+Views and More Actions → Commit | Yada | Source Control → Commit buton → Commit'e Bir İsim Ver "060321-2330"
+Views and More Actions → Push | Yada | Durum Çubuğundaki → Synchronize Changes buton, Login İçin Token Gir
 """
 #endregion
