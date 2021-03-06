@@ -28,3 +28,4 @@ ecodation>>eğitim>>kurumları.
 print("istanbul", "teknopark", sep="-")
 print("ecodation","eğitim", "kurumları", sep=">>", end=".")
 print("ben neredeyim?")
+

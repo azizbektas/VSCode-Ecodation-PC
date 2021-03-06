@@ -5,7 +5,6 @@ sağlayarak daha düzenli görmemizi sağlayacak, kod blokları oluşturacak
 """
 #endregion
 
-
 #region db_connect
 
 
