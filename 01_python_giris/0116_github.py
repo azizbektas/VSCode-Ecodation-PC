@@ -12,11 +12,12 @@ https://github.com/ → Proje ile aynı isimde repo oluşturalım
 https://github.com/azizbektas/VSCode-Ecodation-PC.git
 
 Adım 4 → Vscode ile repoyu bağlamak için "Add Remote"
-View → Comment Palette → arama: "Add Remote" → Add Remote from Github → 
+View → Comment Palette → arama: "Add Remote" 
+Repository Url: "repo url'sini ekle" https://github.com/azizbektas/VSCode-Ecodation-PC.git
+Remote Name: "remote ismi ekle" VSCode-Ecodation-PC
 
-Adım 5 → Authorize işlemi için token oluştur
-Authorize'a İzin Ver  → Authorize Github. Bu işlemlerden sonra 
-View → Comment Palette → arama: "Add Remote" → ekranına sizin repolarınız listelenecek.
+Adım 5 → Authenticaion/Authorization işlemi için token oluştur.
+https://github.com/settings/tokens → Generate New Token
 
 Adım 6 → İlk gönderimde Push operasyonu
 Views and More Actions → Push
