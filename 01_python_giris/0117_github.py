@@ -24,3 +24,4 @@ Views and More Actions → Commit | Yada | Source Control → Commit buton → C
 Views and More Actions → Push | Yada | Status Bar'daki → Synchronize Changes buton, Login İçin Token Gir 
 """
 #endregion
+#sorun yaşadık
