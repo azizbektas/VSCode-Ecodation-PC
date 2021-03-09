@@ -1,7 +1,6 @@
 # region ornek_1
 """
 delta örneği
-
 """
 # endregion
 
@@ -9,7 +8,6 @@ delta örneği
 # region ornek_2
 """
 ortalama
-
 """
 # endregion
 
@@ -17,14 +15,18 @@ ortalama
 # region ornek_3
 """
 saat bilgisini saniyeye dönüştürsün
-"""
+
 saat = 2
 saniye = 3600
 print("Saat: ", saat)
 print("Ekrandaki saat biriminin saniye karşılığı →", saat*saniye, " sn.")
+"""
 # endregion
 
-# formatter shift + alt + f
+#ipucu → formatter shift + alt + f
+
+#region ornek_4
+"""
 sayi = 562
 kalan = sayi % 10
 birler = kalan // 1
@@ -35,3 +37,5 @@ yuzler = kalan //100
 toplamDegeri = birler + onlar + yuzler
 print(yuzler, onlar, birler)
 print(toplamDegeri)
+"""
+#endregion

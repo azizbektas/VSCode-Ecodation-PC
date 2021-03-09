@@ -28,7 +28,7 @@ print(okul_numarasi, ad, soyad, sinav_notu)
 """
 #endregion
 
-
+#region degisken_isimlendirme_kurallari
 """
 Değişken İsimlendirme Kuralları
 1- harf veya alt çizgi ile başlamalıdır
@@ -79,6 +79,9 @@ def = "definiton"
 """
 
 #7- türkçe karakter kullanmamaya özen gösterelim
+"""
 öğrenci = "Ali"
 ogrenci = "ezgi"
 print(ogrenci)
+"""
+#endregion
