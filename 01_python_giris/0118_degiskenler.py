@@ -4,7 +4,7 @@
 skor = 12
 print(skor)
 
-name = "Ali"
+name = "mehmet"
 print(name)
 """
 #endregion
@@ -12,15 +12,15 @@ print(name)
 #region notation
 """
 #camel casing
-okulNumarasi = 571
+okulNumarasi = 271
 ad = "Emir"
 soyad = "Besi"
 sinavNotu = 99
 print(okulNumarasi, ad, soyad, sinavNotu)
 """
 """
-undercore casing
-okul_numarasi = 571
+#undercore casing
+okul_numarasi = 271
 ad = "Emir"
 soyad = "Besi"
 sinav_notu = 99
@@ -58,8 +58,8 @@ _34istanbul = "en güzel şehir"
 #3- ilk harf dışındakiler, harf, sayı, alt çizgi olabilir
 """
 plaka34 = "istanbul"
+print(plaka34)
 """
-
 #4- alt çizgi dışında alfa sayısal karakterlerimiz (%, #, $...) kullanılamaz
 """
 plaka&34 = "ist"
@@ -73,7 +73,7 @@ ad = "ali"
 print(Ad)
 """
 
-#6- anahtar kelimeler if, pass, while, def bunlar kullanılamaz
+#6- anahtar kelimeler if, pass, while, def, for bunlar kullanılamaz
 """
 def = "definiton"
 """

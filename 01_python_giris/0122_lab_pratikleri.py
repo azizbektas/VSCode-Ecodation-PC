@@ -1,6 +1,11 @@
 # region ornek_1
 """
 delta örneği
+a = 1
+b = 4
+c = 2
+delta = b**2 - 4*a*c
+print("delta değeri " , delta)
 """
 # endregion
 
@@ -8,6 +13,11 @@ delta örneği
 # region ornek_2
 """
 ortalama
+
+s1 = 2
+s2 = 4
+ort = (s1 + s2) / 2
+print("oralama değeri ", ort)
 """
 # endregion
 
@@ -23,10 +33,10 @@ print("Ekrandaki saat biriminin saniye karşılığı →", saat*saniye, " sn.")
 """
 # endregion
 
-#ipucu → formatter shift + alt + f
+# ipucu → formatter shift + alt + f
 
-#region ornek_4
-"""
+# region ornek_4
+""""""
 sayi = 562
 kalan = sayi % 10
 birler = kalan // 1
@@ -36,6 +46,6 @@ kalan = sayi % 1000
 yuzler = kalan //100
 toplamDegeri = birler + onlar + yuzler
 print(yuzler, onlar, birler)
-print(toplamDegeri)
-"""
-#endregion
+print(sayi, " sayısının basamakları toplamı " , toplamDegeri)
+
+# endregion
