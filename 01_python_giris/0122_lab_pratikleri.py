@@ -47,5 +47,4 @@ yuzler = kalan //100
 toplamDegeri = birler + onlar + yuzler
 print(yuzler, onlar, birler)
 print(sayi, " sayısının basamakları toplamı " , toplamDegeri)
-
 # endregion
