@@ -1,3 +1,4 @@
+#region string_operatorleri
 """
 + = concatenation
 * = replication
@@ -7,11 +8,23 @@ b = "B"
 c = "C"
 yazdir = a + b + c
 print(yazdir)
-
-print("istanbul"*3)
-print("-"*50)
 """
 
-okulTuru = "ATP"
-seviye = 11
+"""
+print(3*3)
+print("istanbul"*3)
+print("+"*50)
+
+print("+"*50)
+print("+")"""
+#endregion
+
+#region ornek
+"""
+
+"""
+
+okulTuru = "Anadolu"
+seviye = 12
 print(okulTuru + " " + str(seviye))
+#endregion

@@ -1,11 +1,9 @@
-print(
-"""
-    Leylek Uygulamasına Hoşgeldiniz!!!
+print("""
+    Leylek Uygulamasına Hoş Geldiniz!!!
     Sürüş Ücreti → 0.59/dk
-"""
-)
-s = int(input("sürüş için geçen süre (saat)\t\t: "))
-d = int(input("sürüş için geçen süre (dakika)\t\t: "))
+""")
+s = int(input("sürüş için geçen süre (saat)\t : "))
+d = int(input("sürüş için geçen süre (dakika)\t : "))
 toplamDakika = s*60
 toplamDakika += d
 toplamTutar = 0.59 * toplamDakika
