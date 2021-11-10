@@ -75,6 +75,9 @@ print(url)
 yorum = "bu kelime sansürlenecek"
 print(yorum.replace("sansürlenecek", "..."))
 print(yorum)
+#mesaj silmek için de alternatif olabilir
+mesaj="python programlama dili"
+print(mesaj.replace("python ", ""))
 """
 # endregion
 
