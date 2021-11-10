@@ -206,9 +206,10 @@ print(deger.isidentifier())
 
 # region split
 """
-parametre ile belirtilen değer, değişken ismi olur mu olmaz mı doğrulamak için kullanılır.
+parametre ile belirtilen değer, değişken ismi olur mu olmaz mı doğrulamak için kullanılır."""
 kurum  = "Ecodation Eğitim Kurumları"
 print(kurum.split())
+print(f"kelime sayısı → {len(kurum.split())}")
 kurum1  = "Ecodation Eğitim Kurumları. Python Kursuna Hoş Geldiniz"
 print(kurum1.split("."))
 cumleSayisi = len(kurum1.split("."))
@@ -216,7 +217,7 @@ print(cumleSayisi)
 kurum  = "Ecodation Eğitim Kurumları. Python Kursuna Hoş Geldiniz"
 listem = [i for i in kurum.split(".")]
 print(listem)
-"""
+
 # endregion
 
 
