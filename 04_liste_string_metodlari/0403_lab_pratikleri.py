@@ -90,3 +90,13 @@ rakamlar = [6, 2, 7, 3, 5]
 Çıktı:
 ["ALTI", "İKİ", "YEDİ", "ÜÇ, "BEŞ"]
 """
+
+
+# ödev →
+"""
+rakamlar = ["elma", "armut", "erik", "şeftali"]
+Çıktı:
+ismi e ile başlayan meyve elma
+ismi e ile başlayan meyve erik
+"""
+
