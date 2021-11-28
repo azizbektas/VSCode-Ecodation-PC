@@ -82,3 +82,11 @@ mehmet listenin 3. sırasındaki öğrencidir
 Aradığınız Öğrenci: murat
 sınıfta murat isimli öğrenci yoktur
 """
+
+
+# ödev →
+"""
+rakamlar = [6, 2, 7, 3, 5]
+Çıktı:
+["ALTI", "İKİ"İ "YEDİ", "ÜÇ, "BEŞ"]
+"""
