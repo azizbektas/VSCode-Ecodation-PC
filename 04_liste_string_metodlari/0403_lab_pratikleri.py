@@ -88,5 +88,5 @@ sınıfta murat isimli öğrenci yoktur
 """
 rakamlar = [6, 2, 7, 3, 5]
 Çıktı:
-["ALTI", "İKİ"İ "YEDİ", "ÜÇ, "BEŞ"]
+["ALTI", "İKİ", "YEDİ", "ÜÇ, "BEŞ"]
 """
