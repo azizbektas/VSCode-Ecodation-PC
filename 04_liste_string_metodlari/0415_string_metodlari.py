@@ -7,6 +7,7 @@ strip() lstrip()    rstrip()
 isdigit()   isalpha()
 isalphanum()    isspace()   istitle()   isidentifier()
 split() index() find() format()
+isinstance()
 """
 # endregion
 
@@ -241,6 +242,15 @@ print(kurum[kurum.find("Eğitim"):])
 """
 # endregion
 
+# region find isinstance()
+"""
+ilk parametre ile belirtilen değerin, ikinci parametre ile belirtilen class'tan bir instance mı olduğunu sorarız
+kullaım yöntemi şu olabilir; bu arkadaş string mi?
+print("ecodation", str)
+print(34, str)
+"""
+# endregion
+
 # region ic_ice_kullanim
 """
 kurum  = "Ecodation Eğitim Kurumları"
@@ -259,3 +269,6 @@ for item in kotuKelimeler:
 print(yorum)
 """
 # endregion
+
+
+
